@@ -1,0 +1,13 @@
+# Production/private data
+wp-config.php
+.env
+.env.*
+*.sql
+*.sql.gz
+*.log
+*.zip
+*.bak
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
